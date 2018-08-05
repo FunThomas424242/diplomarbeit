@@ -1,0 +1,9 @@
+# Diplomarbeit
+:author: Thomas Michel
+//:toc:
+:icons: font
+:lang: de
+:encoding: iso-8859-1
+
+Zustandsbasiertes Testen objektorientierter Programme auf der Grundlage formaler Spezifikationen
+

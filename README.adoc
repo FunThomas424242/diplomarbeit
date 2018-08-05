@@ -11,3 +11,4 @@ Da sich ASCII Doc in Verbindung mit Maven aktuell (2018) sehr stark entwickelt h
 
 Schauen wir mal was draus wird, vielleicht kommt ja sogar ein PDF dabei heraus ;)
 
+Hier gehts zur link:https://funthomas424242.github.io/diplomarbeit/[HTML Version]

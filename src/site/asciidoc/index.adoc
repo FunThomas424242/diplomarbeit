@@ -1,9 +1,12 @@
-# Diplomarbeit
+= Diplomarbeit: Zustandsbasiertes Testen objektorientierter Programme auf der Grundlage formaler Spezifikationen
+:doctype: book
 :author: Thomas Michel
-//:toc:
+:email: funthomas424242@gmail.com
 :icons: font
 :lang: de
-:encoding: iso-8859-1
+:encoding: utf-8
+:toc: left
+:numbered:
 
-Zustandsbasiertes Testen objektorientierter Programme auf der Grundlage formaler Spezifikationen
+include::01_einleitung.adoc[]
 

@@ -31,8 +31,8 @@
 
   <body>
     <menu name="Diplomarbeit">
-      <item name="HTML Version" href="https://github.com/FunThomas424242/diplomarbeit"/>
-      <item name="PDF Version" href="diplomarbeit.pdf"/>
+      <item name="HTML Version" href="https://funthomas424242.github.io/diplomarbeit/"/>
+      <item name="PDF Version" href="https://funthomas424242.github.io/diplomarbeit/diplomarbeit.pdf"/>
     </menu>
   </body>
 </project>

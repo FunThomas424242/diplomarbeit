@@ -14,12 +14,12 @@
       <topBarContainerStyle>width: 80%;</topBarContainerStyle>
       <sideBarEnabled>false</sideBarEnabled>
       <gitHub>
-        <projectId>FunThomas424242/rades.fluent-builder</projectId>
+        <projectId>FunThomas424242/diplomarbeit</projectId>
         <ribbonOrientation>left</ribbonOrientation>
         <ribbonColor>gray</ribbonColor>
       </gitHub>
       <ohloh>
-        <projectId>rades.fluent-builder</projectId>
+        <projectId>diplomarbeit</projectId>
         <widget>factoids</widget>
       </ohloh>
       <googlePlusOne/>
